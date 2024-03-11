@@ -1,4 +1,4 @@
-# Keplr Example
+#@# Keplr Example
 This is a simple example if how to use Keplr extension. 
 
 ## Requirements
